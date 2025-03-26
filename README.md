@@ -1,3 +1,3 @@
-# Welcome to my repository
+# KELVINJOSON.COM
 
-This is a repository for my projects. Please feel free to look around and see what I've been working on.
+![CI](https://github.com/KelvinJoson/kelvinjoson.com/actions/workflows/CI.yml/badge.svg)
