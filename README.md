@@ -1,3 +1,3 @@
 # KELVINJOSON.COM
 
-![CI](https://github.com/KelvinJoson/kelvinjoson.com/actions/workflows/CI.yml/badge.svg)
+![CI](https://github.com/KelvinJoson/kelvinjoson/actions/workflows/CI.yml/badge.svg)
