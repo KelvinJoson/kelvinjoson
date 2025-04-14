@@ -54,8 +54,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: lime
-      accent: purple
+      primary: purple
+      accent: lime
       toggle:
         icon: material/brightness-4
         name: Switch to Light Mode
