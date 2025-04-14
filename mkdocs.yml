@@ -114,7 +114,7 @@ plugins:
   - callouts
   - roamlinks
   - social:
-      enabled: !ENV [CI, false]
+      enabled: !ENV [CI, true]
       cards_layout_options:
         font_family: IBM Plex Sans
   - git-revision-date-localized:
