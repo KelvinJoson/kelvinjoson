@@ -1,5 +1,5 @@
 site_name: KELVINJOSON.COM
-site_url: https://kelvinjoson.com/
+site_url: https://kelvinjoson.com
 #repo_url: https://github.com/KelvinJoson/kelvinjoson
 #repo_name: KelvinJoson/kelvinjoson
 site_author: Kelvin Joson
@@ -15,7 +15,7 @@ theme:
   name: material
   custom_dir: overrides
   icon:
-    logo: material/alpha-k-box
+    logo: fontawesome/solid/user-astronaut
     repo: fontawesome/brands/github
     edit: material/file-edit-outline
   features:
@@ -46,16 +46,16 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: custom
-      accent: custom
+      primary: lime
+      accent: purple
       toggle:
         icon: material/brightness-5
         name: Switch to Dark Mode
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: custom
-      accent: custom
+      primary: purple
+      accent: lime
       toggle:
         icon: material/brightness-4
         name: Switch to Light Mode
@@ -114,7 +114,7 @@ plugins:
   - callouts
   - roamlinks
   - social:
-      enabled: !ENV [CI, false]
+      enabled: !ENV [CI, true]
       cards_layout_options:
         font_family: IBM Plex Sans
   - git-revision-date-localized:

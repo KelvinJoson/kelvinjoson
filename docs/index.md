@@ -2,12 +2,13 @@
 #title: About Me
 description: Certified SAFe® 5 Practitioner/PO/PM. ICT Business Analyst. Electronics Engineer. Manufacturing Applications Consultant.
 image_path: images/
-og_image: kelvinjoson_profile.png
+og_image: kelvinjoson_profile_small.png
 ---
 
 # About Me
 
 ---
+
 ![KelvinJoson](images/kelvinjoson_profile_small.png)
 
 > Hi, I'm Kelvin. I am excited to welcome you to my personal website and I look forward to hearing from you!
@@ -24,4 +25,4 @@ og_image: kelvinjoson_profile.png
 
 ## Key Skills
 
->**Framework:** *Scaled Agile Framework (SAFe), Design Thinking*; **Programming Language:** *Python, C#, C/C++*; **OS Platform:** *Linux/Unix, Windows*; **Database:** *Oracle, SQL Server, SQLite*; **IT Service Management:** *BMC, HPSM*; **IDE:** *VS Code, Visual Studio 2019, SQL Developer, PL/SQL Developer, LabWindows/CVI, LabView, Platform IO, Arduino*; **Data Analysis Tool:** *MATLAB, Pandas/Matplotlib/Numpy, Jupyter, Power BI, Spotfire*; **Testing:** *TDD, Selenium, Screenplay Pattern, Pytest-BDD, Gherkin (Cucumber), Serenity-BDD, Boa Constrictor, SpecFlow*; **Manufacturing Execution System**: *camline LineWorks*; **Other Tool:** *SUSE Rancher, Jenkins, Jira, Confluence, GitHub*
+> **Framework:** _Scaled Agile Framework (SAFe), Design Thinking_; **Programming Language:** _Python, C#, C/C++_; **OS Platform:** _Linux/Unix, Windows_; **Database:** _Oracle, SQL Server, SQLite_; **IT Service Management:** _BMC, HPSM_; **IDE:** _VS Code, Visual Studio 2019, SQL Developer, PL/SQL Developer, LabWindows/CVI, LabView, Platform IO, Arduino_; **Data Analysis Tool:** _MATLAB, Pandas/Matplotlib/Numpy, Jupyter, Power BI, Spotfire_; **Testing:** _TDD, Selenium, Screenplay Pattern, Pytest-BDD, Gherkin (Cucumber), Serenity-BDD, Boa Constrictor, SpecFlow_; **Manufacturing Execution System**: _camline LineWorks_; **Other Tool:** _SUSE Rancher, Jenkins, Jira, Confluence, GitHub_
