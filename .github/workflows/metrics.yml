@@ -103,7 +103,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          config_timezone: US/Eastern
+          config_timezone: Asia/Manila
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
         with:
@@ -113,7 +113,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          config_timezone: Europe/Paris
+          config_timezone: Asia/Manila
       - name: Pull requests In-depth
         uses: lowlighter/metrics@latest
         with:
