@@ -12,10 +12,6 @@
 
 ---
 
-![Kelvin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KelvinJoson&theme=dark&hide_border=true)
-
----
-
 ![Kelvin's Contribution Graph](https://github-contribution-stats.vercel.app/api/?username=KelvinJoson&theme=dark&hide_border=true)
 
 ---
