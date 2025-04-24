@@ -4,7 +4,15 @@ This is a repository for my projects. Please feel free to look around and see wh
 
 ---
 
-[![kelvinjoson](https://github-profile-trophy.vercel.app/?username=KelvinJoson&title=Experience,Commits,Followers,Repositories&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+[![Kelvin's Github Metrics](github-metrics.svg)](https://github.com/KelvinJoson)
+
+---
+
+![Languages](metrics.plugin.languages.details.svg)
+
+---
+
+![Calendar](metrics.plugin.isocalendar.svg)
 
 ---
 
@@ -13,3 +21,7 @@ This is a repository for my projects. Please feel free to look around and see wh
 ---
 
 ![Kelvin's Contribution Graph](https://github-contribution-stats.vercel.app/api/?username=KelvinJoson&theme=dark&hide_border=true)
+
+---
+
+![kelvinjoson](https://github-profile-trophy.vercel.app/?username=KelvinJoson&title=Experience,Commits,Followers,Repositories&theme=oldie)
