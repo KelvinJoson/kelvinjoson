@@ -4,11 +4,11 @@
 
 ---
 
-![Languages](metrics.plugin.languages.details.svg)
+![Kelvin's Languages](metrics.plugin.languages.details.svg)
 
 ---
 
-![Calendar](metrics.plugin.isocalendar.svg)
+![Kelvin's Calendar](metrics.plugin.isocalendar.svg)
 
 ---
 
@@ -20,4 +20,4 @@
 
 ---
 
-![kelvinjoson](https://github-profile-trophy.vercel.app/?username=KelvinJoson&title=Experience,Commits,Followers,Repositories&theme=oldie)
+![Kelvin's Profile Trophy](https://github-profile-trophy.vercel.app/?username=KelvinJoson&title=Experience,Commits,Followers,Repositories&theme=oldie)
