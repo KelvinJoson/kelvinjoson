@@ -268,9 +268,9 @@
 
 ### **Cloud and Cybersecurity**
 
-- [**Certified in Cybersecurity (CC)**](https://www.credly.com/badges/8ede29a0-f521-42d0-a662-e8a8a5a00580)
-- [**Microsoft Certified: Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/kelvinjoson/EE04FC1BDB3E8260?sharingId=CCCB58ACCEF1B45)
-- [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/kelvinjoson/FF2209B46E4F8A9C?sharingId=CCCB58ACCEF1B45)
+- [**Certified in Cybersecurity (CC)**](https://www.credly.com/badges/8ede29a0-f521-42d0-a662-e8a8a5a00580) - ISC2 _*(Apr 2023)*_
+- [**Microsoft Certified: Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/kelvinjoson/EE04FC1BDB3E8260?sharingId=CCCB58ACCEF1B45) - Microsoft _*(Jun 2024)*_
+- [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/kelvinjoson/FF2209B46E4F8A9C?sharingId=CCCB58ACCEF1B45) - Microsoft  _*(Feb 2021)*_
 
 ### **Professional Licenses**
 
