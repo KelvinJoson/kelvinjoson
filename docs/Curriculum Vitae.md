@@ -259,12 +259,12 @@
 
 ### **Agile and Devops**
 
-- [**Certified SAFe® 6 DevOps Practitioner**](https://www.credly.com/badges/67026fe1-3e85-422f-ab25-ed2aaa90fac5)
-- [**Certified SAFe® 6 Product Owner/Product Manager**](https://www.credly.com/badges/6b2f237b-9305-4caf-b994-55ba469abf92)
-- [**Certified SAFe® 5 Product Owner/Product Manager**](https://www.credly.com/badges/d9711a5f-9820-4faa-b6c5-ba21fbf5cff1)
-- [**Certified SAFe® 6 Practitioner**](https://www.credly.com/badges/fe326357-6b53-4ce4-853f-51a067614d6d)
-- [**Certified SAFe® 5 Practitioner**](https://www.credly.com/badges/56927913-96d3-4fd6-9af4-eb17039ab3ce)
-- [**Professional Scrum Product Owner I (PSPO I)**](https://www.credly.com/badges/65f13769-014c-4718-abf4-891cf37b4771)
+- [**Certified SAFe® 6 DevOps Practitioner**](https://www.credly.com/badges/67026fe1-3e85-422f-ab25-ed2aaa90fac5) - Scaled Agile _*(Aug 2024)*_
+- [**Certified SAFe® 6 Product Owner/Product Manager**](https://www.credly.com/badges/6b2f237b-9305-4caf-b994-55ba469abf92) - Scaled Agile _*(Apr 2023)*_
+- [**Certified SAFe® 5 Product Owner/Product Manager**](https://www.credly.com/badges/d9711a5f-9820-4faa-b6c5-ba21fbf5cff1) - Scaled Agile _*(Aug 2022)*_
+- [**Certified SAFe® 6 Practitioner**](https://www.credly.com/badges/fe326357-6b53-4ce4-853f-51a067614d6d) - Scaled Agile  _*(Apr 2023)*_
+- [**Certified SAFe® 5 Practitioner**](https://www.credly.com/badges/56927913-96d3-4fd6-9af4-eb17039ab3ce) - Scaled Agile _*(Nov 2020)*_
+- [**Professional Scrum Product Owner I (PSPO I)**](https://www.credly.com/badges/65f13769-014c-4718-abf4-891cf37b4771) - Scrum.org  _*(Mar 2023)*_
 
 ### **Cloud and Cybersecurity**
 
@@ -286,10 +286,10 @@
 - **SAFe 6.0 Upgrade** - Scaled Agile _*(Apr 2023)*_
 - **SAFe Release Train Engineer Essentials** - Scaled Agile _*(Jul 2023)*_
 - **SAFe Product Owner/Product Manager Course (5.1)** - Scaled Agile _*(Aug 2022)*_
-- **SAFe for Teams Course (5.0)** - Scaled Agile _*(2020)*_
+- **SAFe for Teams Course (5.0)** - Scaled Agile _*(Oct 2020)*_
 - **SPS Expert Coach Training** - Continental _*(2023)*_
 - **DevOps Foundation** - LinkedIn Learning _*(Mar 2020)*_
-- **Professional Scrum Product Owner** - Scrum.org _*(2023)*_
+- **Professional Scrum Product Owner** - Scrum.org _*(Mar 2023)*_
 - **Professional Scrum Master (PSM1) Training** - Scrum.org _*(Oct 2018)*_
 
 ### **Cloud and Virtualization**
