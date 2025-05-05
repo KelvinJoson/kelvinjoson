@@ -2,7 +2,19 @@
 
 ---
 
-### **Career Summary**
+## **Contact Information**
+
+- **Name:** Kelvin Joson
+- **Email:** [kelvin@kelvinjoson.com](mailto:kelvin@kelvinjoson.com)
+- **Phone:** +63 906 448 5220
+- **LinkedIn:** [linkedin.com/in/kelvinjoson](https://www.linkedin.com/in/kelvinjoson/)
+- **GitHub:** [github.com/kelvinjoson](https://github.com/kelvinjoson)
+- **Website:** [www.kelvinjoson.com](https://www.kelvinjoson.com)
+- **Location:** Olongapo City, Philippines
+
+---
+
+## **Career Summary**
 
 > - **[Kelvin Joson](https://www.linkedin.com/in/kelvinjoson/)** is a seasoned professional with over 19 years of expertise in **Manufacturing Execution Systems (MES)**, **Agile methodologies**, and **product ownership**. He has led global rollouts, developed innovative solutions, and driven process improvements in the semiconductor and automotive industries.  
 > - Proficient in tools and technologies like **Python**, **C#**, **Docker**, **Jenkins**, **Azure**, and **GitHub Actions**. Kelvin excels in bridging technical and business requirements to deliver impactful solutions.  
@@ -268,41 +280,60 @@
 
 ## **Trainings**
 
-- **Virtualization with KVM and Qemu** - LinkedIn Learning _*(Nov 2024)*_
+### **Agile and DevOps**
+
 - **SAFe DevOps (6.0)** - Scaled Agile _*(Aug 2024)*_
-- **Playwright with Python for Web Automation Testing + Visual** - Udemy _*(Feb 2024)*_
-- **Leadership Development Program 1** - Continental/Dale Carnegie Philippines _*(2023)*_
-- **Leading Self Program** - Continental/Dale Carnegie Philippines _*(2023)*_
-- **Professional Scrum Product Owner** - Scrum.org _*(2023)*_
 - **SAFe 6.0 Upgrade** - Scaled Agile _*(Apr 2023)*_
 - **SAFe Release Train Engineer Essentials** - Scaled Agile _*(Jul 2023)*_
-- **SPS Expert Coach Training** - Continental _*(2023)*_
-- **Official (ISC)² Certified in Cybersecurity (CC) Self-Paced Training** - ISC2 _*(Nov 2022)*_
 - **SAFe Product Owner/Product Manager Course (5.1)** - Scaled Agile _*(Aug 2022)*_
-- **How to Manage a Remote Team** GitLab _*(Mar 2022)*_
-- **Using SQL with Python** - LinkedIn Learning _*(Sep 2021)*_
+- **SAFe for Teams Course (5.0)** - Scaled Agile _*(2020)*_
+- **SPS Expert Coach Training** - Continental _*(2023)*_
+- **DevOps Foundation** - LinkedIn Learning _*(Mar 2020)*_
+- **Professional Scrum Product Owner** - Scrum.org _*(2023)*_
+- **Professional Scrum Master (PSM1) Training** - Scrum.org _*(Oct 2018)*_
+
+### **Cloud and Virtualization**
+
+- **Virtualization with KVM and Qemu** - LinkedIn Learning _*(Nov 2024)*_
+- **Master Cloud-Native Infrastructure with Kubernetes** - LinkedIn Learning _*(Feb 2020)*_
+- **Docker and Kubernetes** - NobleProg _*(2019)*_
+- **Become Docker Administrator** - LinkedIn Learning _*(Feb 2020)*_
+- **Developing and Delivering Software with Docker** - LinkedIn Learning _*(Feb 2020)*_
+- **AWS Technical Essentials** - Amazon Web Services _*(Nov 2018)*_
+
+### **Testing and Automation**
+
+- **Playwright with Python for Web Automation Testing + Visual** - Udemy _*(Feb 2024)*_
 - **Become a Software Tester** - LinkedIn Learning _*(Mar 2021)*_
 - **Become a Test Automation Engineer** - LinkedIn Learning _*(Mar 2021)*_
 - **Python for Everybody Specialization** - University of Michigan _*(Feb 2021)*_
-- **Learning Linux Shell Scripting** - LinkedIn Learning _*(Jun 2020)*_
+- **Test Program Development** - LTX-Credence _*(Nov 2006)*_
+
+### **Leadership and Professional Development**
+
+- **Leadership Development Program 1** - Continental/Dale Carnegie Philippines _*(2023)*_
+- **Leading Self Program** - Continental/Dale Carnegie Philippines _*(2023)*_
+- **The 7 Habits of Highly Effective People Signature Program** - Franklin Covey _*(May 2012)*_
+- **How to Manage a Remote Team** - GitLab _*(Mar 2022)*_
 - **Become a Successful Remote Worker** - LinkedIn Learning _*(Mar 2020)*_
-- **DevOps Foundation** - LinkedIn Learning _*(Mar 2020)*_
-- **SAFe for Teams Course (5.0)** - Scaled Agile _*(2020)*_
-- **Become Docker Administrator** - LinkedIn Learning _*(Feb 2020)*_
-- **Developing and Delivering Software with Docker** - LinkedIn Learning _*(Feb 2020)*_
-- **Master Cloud-Native Infrastructure with Kubernetes** - LinkedIn Learning _*(Feb 2020)*_
-- **Docker and Kubernetes** - NobleProg _*(2019)*_
+
+### **Programming and Development**
+
+- **Using SQL with Python** - LinkedIn Learning _*(Sep 2021)*_
 - **Become a RESTful API Developer** - LinkedIn Learning _*(Mar 2019)*_
 - **Become an Angular 2+ Developer** - LinkedIn Learning _*(Mar 2019)*_
 - **Learning Git and GitHub** - LinkedIn Learning _*(Mar 2019)*_
-- **AWS Technical Essentials** - Amazon Web Services _*(Nov 2018)*_
-- **Profesional Scrum Master (PSM1) Training** - Scrum.org _*(Oct 2018)*_
-- **ITIL v3 (2011) Foundation Training** - APEX GLobal Learning _*(Feb 2016)*_
-- **Oracle Database 12c: Program with PL/SQL Ed 1 Training** - Oracle _*(Nov 2015)*_
-- **Course 6460A: Visual Studio 2008: Windows Presentation Foundation (WPF)** - Microsoft _*(Oct 2014)*_
-- **Introduction to PRISM (Microsoft Patterns & Practices)** Wizardsgroup _*(Oct 2014)*_
-- **Oracle Database 11g: Administration Workshop I Ed 2 Training** - Oracle _*(Dec 2013)*_
-- **The 7 Habits of Highly Effective People Signature Program** - Franklin Covey _*(May 2012)*_
-- **German Language (A1.1, Part 1 of Level A1)** - Goethe Institute _*(Apr 2012)*_
 - **Course: 10266A - Programming in C# with Microsoft Visual Studio 2010** - Microsoft _*(Feb 2012)*_
-- **Test Program Development** - LTX-Credence _*(Nov 2006)*_
+- **Course 6460A: Visual Studio 2008: Windows Presentation Foundation (WPF)** - Microsoft _*(Oct 2014)*_
+- **Introduction to PRISM (Microsoft Patterns & Practices)** - Wizardsgroup _*(Oct 2014)*_
+
+### **Database and ITIL**
+
+- **Oracle Database 12c: Program with PL/SQL Ed 1 Training** - Oracle _*(Nov 2015)*_
+- **Oracle Database 11g: Administration Workshop I Ed 2 Training** - Oracle _*(Dec 2013)*_
+- **ITIL v3 (2011) Foundation Training** - APEX Global Learning _*(Feb 2016)*_
+
+### **Other Technical Skills**
+
+- **Learning Linux Shell Scripting** - LinkedIn Learning _*(Jun 2020)*_
+- **German Language (A1.1, Part 1 of Level A1)** - Goethe Institute _*(Apr 2012)*_
