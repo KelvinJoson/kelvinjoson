@@ -274,7 +274,7 @@
 
 ### **Professional Licenses**
 
-- **Registered Electronic Engineer** - Philippine Regulatory Commission _*(Nov 2004)*_
+- **Registered Electronics Engineer** - Philippine Regulatory Commission _*(Nov 2004)*_
 
 ---
 
