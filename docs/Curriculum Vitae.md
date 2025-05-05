@@ -304,6 +304,8 @@
 ### **Testing and Automation**
 
 - **Playwright with Python for Web Automation Testing + Visual** - Udemy _*(Feb 2024)*_
+- **Behavior-driven Development (BDD) with pytest-bdd and Python** - Pluralsight _*(Nov 2023)*_
+- **Unit Testing with pytest** - Pluralsight _*(Apr 2021)*_
 - **Become a Software Tester** - LinkedIn Learning _*(Mar 2021)*_
 - **Become a Test Automation Engineer** - LinkedIn Learning _*(Mar 2021)*_
 - **Python for Everybody Specialization** - University of Michigan _*(Feb 2021)*_
@@ -319,7 +321,9 @@
 
 ### **Programming and Development**
 
+- **Angular: Getting Started** - Pluralsight _*(Mar 2022)*_
 - **Using SQL with Python** - LinkedIn Learning _*(Sep 2021)*_
+- **TypeScript: The Big Picture** - Pluralsight _*(Nov 2020)*_
 - **Become a RESTful API Developer** - LinkedIn Learning _*(Mar 2019)*_
 - **Become an Angular 2+ Developer** - LinkedIn Learning _*(Mar 2019)*_
 - **Learning Git and GitHub** - LinkedIn Learning _*(Mar 2019)*_
