@@ -30,7 +30,7 @@
 - **Stakeholder Engagement**: Skilled in collaborating with internal and external stakeholders to align technical solutions with business needs.
 - **Technical Requirements Analysis**: Strong ability to analyze and translate complex requirements into actionable solutions.
 - **Project Documentation and Tracking**: Experienced in creating comprehensive project documents and trackers.
-- **Quality Assurance and Testing**: Expertise in automated testing frameworks (e.g., Pytest, Playwright, Selenium, SpecFlow) and manual testing, with tools like Serenity-BDD and Allure Report.
+- **Quality Assurance and Testing**: Proficient in automated testing frameworks (e.g., Pytest, Playwright, Selenium, SpecFlow) and manual testing, with tools like Serenity-BDD and Allure Report.
 - **Cross-Functional Team Collaboration**: Proven ability to lead and collaborate with diverse teams.
 - **Cybersecurity**: Certified in Cybersecurity (CC), with knowledge of secure development practices.
 - **DevSecOps Practices**: Hands-on experience with CI/CD pipelines and secure software development using Jenkins and GitHub Actions.
