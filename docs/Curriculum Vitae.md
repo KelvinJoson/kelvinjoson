@@ -41,7 +41,7 @@
 - **Integrated Development Environments (IDEs)**: Proficient in Visual Studio, VS Code, SQL Developer, PL/SQL Developer, LabWindows/CVI, LabView, Platform IO, Arduino, GitHub Copilot, and Amazon Q.
 - **Programming**: Experienced in Python, C#, C/C++, Bash, and Perl for software development.
 - **Version Control and Collaboration Tools**: Experienced with GitHub, Jenkins, Jira, and Confluence.
-- **Documentation Tools**: Skilled in MkDocs, MkDocs Material, Markdown, Obsidian, and Foam for creating technical documentation.
+- **Documentation Tools**: Skilled in MkDocs Material, Markdown, Obsidian, and Foam for creating technical documentation.
 - **Data Analysis and Reporting Tools**: Proficient in analyzing and visualizing data using tools like MATLAB, Pandas, Matplotlib, Numpy, Jupyter, Power BI, and Spotfire. Experienced in creating custom web-based reporting tools to enhance data-driven decision-making.
 - **Hardware Integration**: Skilled in PLC TCP/IP Communication, ASM Placement Machines, and VISCOM AOI Interfaces.
 
