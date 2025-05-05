@@ -2,28 +2,36 @@
 
 ---
 
+### **Career Summary**
+
+> - **[Kelvin Joson](https://www.linkedin.com/in/kelvinjoson/)** is a seasoned professional with over 19 years of expertise in **Manufacturing Execution Systems (MES)**, **Agile methodologies**, and **product ownership**. He has led global rollouts, developed innovative solutions, and driven process improvements in the semiconductor and automotive industries.  
+> - Proficient in tools and technologies like **Python**, **C#**, **Docker**, **Jenkins**, **Azure**, and **GitHub Actions**. Kelvin excels in bridging technical and business requirements to deliver impactful solutions.  
+> - Recognized for his leadership, Kelvin has mentored teams, contributed to Agile adoption, and holds certifications in **SAFe**, **Scrum**, and **Azure**. With a strong foundation in **electronics and communications engineering**, he combines technical expertise with strategic vision to succeed in dynamic environments.
+
+---
+
 ## **Key Skills**
 
-> **Frameworks and Methodologies:** _Scaled Agile Framework (SAFe), Design Thinking, TDD, BDD_
-> **Programming Languages:** _Python, C#, C/C++, Bash, Perl_
-> **Operating Systems:** _Linux/Unix, Windows_
-> **Databases:** _Oracle, SQL Server, SQLite_
-> **IT Service Management Tools:** _BMC, HPSM_
-> **Integrated Development Environments (IDEs):** _VS Code, Visual Studio, SQL Developer, PL/SQL Developer, LabWindows/CVI, LabView, Platform IO, Arduino, Github Copilot, Amazon Q_
-> **Data Analysis Tools:** _MATLAB, Pandas, Matplotlib, Numpy, Jupyter, Power BI, Spotfire_
-> **Testing Tools and Frameworks:** _Playwright, Pytest, Selenium, SpecFlow, Serenity-BDD Report, Allure Report_
-> **Manufacturing Execution Systems (MES):** _camLine LineWorks, FranCo/COMCELL, MES Driver Application, GHP_
-> **Containerization and Orchestration:** _Docker, Rancher Desktop, SUSE Rancher_
-> **Collaboration and Project Management:** _Jira, Confluence, GitHub_
-> **Documentation Tools:** _MkDocs, MkDocs Material, Markdown, Obsidian, Foam_
-> **Development and Scripting:** _Markdown, WSL2_
-> **CI/CD and Automation:** _Jenkins, Github Actions_
-> **Development Frameworks:** _MVVM, OOP, FraMES Shell Framework_
-> **Scripting and Automation:** _Shell Scripting, Bash
-> **Cloud and AI Platforms:** _Microsoft Azure (AI Fundamentals, Azure Fundamentals)_
-> **Version Control Systems:** _Git/GitHub_
-> **Reporting Tools:** _Power BI, Spotfire, Custom Web-Based Reporting Tools_
-> **Hardware Integration:** _PLC TCP/IP Communication, ASM Placement Machines, VISCOM AOI Interfaces_
+- **MES Integration and Management**: Expertise in implementing and managing Manufacturing Execution Systems (MES) across global locations, including tools like camLine LineWorks, FranCo/COMCELL, MES Driver Application, and GHP.
+- **IT Service Management**: Proficient in tools like BMC and HPSM for managing IT services.
+- **Agile Methodologies**: Certified in SAFe, with experience in Agile Release Train (ART) activities, PI Planning, and frameworks like TDD and BDD.
+- **Stakeholder Engagement**: Skilled in collaborating with internal and external stakeholders to align technical solutions with business needs.
+- **Technical Requirements Analysis**: Strong ability to analyze and translate complex requirements into actionable solutions.
+- **Project Documentation and Tracking**: Experienced in creating comprehensive project documents and trackers.
+- **Quality Assurance and Testing**: Expertise in automated testing frameworks (e.g., Pytest, Playwright, Selenium, SpecFlow) and manual testing, with tools like Serenity-BDD and Allure Report.
+- **Cross-Functional Team Collaboration**: Proven ability to lead and collaborate with diverse teams.
+- **Cybersecurity**: Certified in Cybersecurity (CC), with knowledge of secure development practices.
+- **DevSecOps Practices**: Hands-on experience with CI/CD pipelines and secure software development using Jenkins and GitHub Actions.
+- **Containerization and Orchestration**: Proficient in Docker, Rancher Desktop, SUSE Rancher, and Docker Compose for managing containerized applications.
+- **Cloud Native and Microservices**: Experience in designing and deploying cloud-native applications and microservices.
+- **IoT and Home Automation**: Knowledge of IoT platforms and home automation technologies
+- **System Administration and Virtualization**: Skilled in Windows/Linux administration and virtualization tools (e.g., WSL2, Hyper-V, VMWare).
+- **Integrated Development Environments (IDEs)**: Proficient in Visual Studio, VS Code, SQL Developer, PL/SQL Developer, LabWindows/CVI, LabView, Platform IO, Arduino, GitHub Copilot, and Amazon Q.
+- **Programming**: Experienced in Python, C#, C/C++, Bash, and Perl for software development.
+- **Version Control and Collaboration Tools**: Experienced with GitHub, Jenkins, Jira, and Confluence.
+- **Documentation Tools**: Skilled in MkDocs, MkDocs Material, Markdown, Obsidian, and Foam for creating technical documentation.
+- **Data Analysis and Reporting Tools**: Proficient in analyzing and visualizing data using tools like MATLAB, Pandas, Matplotlib, Numpy, Jupyter, Power BI, and Spotfire. Experienced in creating custom web-based reporting tools to enhance data-driven decision-making.
+- **Hardware Integration**: Skilled in PLC TCP/IP Communication, ASM Placement Machines, and VISCOM AOI Interfaces.
 
 ---
 
@@ -237,12 +245,64 @@
 
 ## **Certifications**
 
-- [**Certified in Cybersecurity (CC)**](https://www.credly.com/badges/8ede29a0-f521-42d0-a662-e8a8a5a00580)
+### **Agile and Devops**
+
 - [**Certified SAFe® 6 DevOps Practitioner**](https://www.credly.com/badges/67026fe1-3e85-422f-ab25-ed2aaa90fac5)
-- [**Professional Scrum Product Owner I (PSPO I)**](https://www.credly.com/badges/65f13769-014c-4718-abf4-891cf37b4771)
 - [**Certified SAFe® 6 Product Owner/Product Manager**](https://www.credly.com/badges/6b2f237b-9305-4caf-b994-55ba469abf92)
 - [**Certified SAFe® 5 Product Owner/Product Manager**](https://www.credly.com/badges/d9711a5f-9820-4faa-b6c5-ba21fbf5cff1)
 - [**Certified SAFe® 6 Practitioner**](https://www.credly.com/badges/fe326357-6b53-4ce4-853f-51a067614d6d)
 - [**Certified SAFe® 5 Practitioner**](https://www.credly.com/badges/56927913-96d3-4fd6-9af4-eb17039ab3ce)
+- [**Professional Scrum Product Owner I (PSPO I)**](https://www.credly.com/badges/65f13769-014c-4718-abf4-891cf37b4771)
+
+### **Cloud and Cybersecurity**
+
+- [**Certified in Cybersecurity (CC)**](https://www.credly.com/badges/8ede29a0-f521-42d0-a662-e8a8a5a00580)
 - [**Microsoft Certified: Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/kelvinjoson/EE04FC1BDB3E8260?sharingId=CCCB58ACCEF1B45)
 - [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/kelvinjoson/FF2209B46E4F8A9C?sharingId=CCCB58ACCEF1B45)
+
+### **Professional Licenses**
+
+- **Registered Electronic Engineer** - Philippine Regulatory Commission _*(Nov 2004)*_
+
+---
+
+## **Trainings**
+
+- **Virtualization with KVM and Qemu** - LinkedIn Learning _*(Nov 2024)*_
+- **SAFe DevOps (6.0)** - Scaled Agile _*(Aug 2024)*_
+- **Playwright with Python for Web Automation Testing + Visual** - Udemy _*(Feb 2024)*_
+- **Leadership Development Program 1** - Continental/Dale Carnegie Philippines _*(2023)*_
+- **Leading Self Program** - Continental/Dale Carnegie Philippines _*(2023)*_
+- **Professional Scrum Product Owner** - Scrum.org _*(2023)*_
+- **SAFe 6.0 Upgrade** - Scaled Agile _*(Apr 2023)*_
+- **SAFe Release Train Engineer Essentials** - Scaled Agile _*(Jul 2023)*_
+- **SPS Expert Coach Training** - Continental _*(2023)*_
+- **Official (ISC)² Certified in Cybersecurity (CC) Self-Paced Training** - ISC2 _*(Nov 2022)*_
+- **SAFe Product Owner/Product Manager Course (5.1)** - Scaled Agile _*(Aug 2022)*_
+- **How to Manage a Remote Team** GitLab _*(Mar 2022)*_
+- **Using SQL with Python** - LinkedIn Learning _*(Sep 2021)*_
+- **Become a Software Tester** - LinkedIn Learning _*(Mar 2021)*_
+- **Become a Test Automation Engineer** - LinkedIn Learning _*(Mar 2021)*_
+- **Python for Everybody Specialization** - University of Michigan _*(Feb 2021)*_
+- **Learning Linux Shell Scripting** - LinkedIn Learning _*(Jun 2020)*_
+- **Become a Successful Remote Worker** - LinkedIn Learning _*(Mar 2020)*_
+- **DevOps Foundation** - LinkedIn Learning _*(Mar 2020)*_
+- **SAFe for Teams Course (5.0)** - Scaled Agile _*(2020)*_
+- **Become Docker Administrator** - LinkedIn Learning _*(Feb 2020)*_
+- **Developing and Delivering Software with Docker** - LinkedIn Learning _*(Feb 2020)*_
+- **Master Cloud-Native Infrastructure with Kubernetes** - LinkedIn Learning _*(Feb 2020)*_
+- **Docker and Kubernetes** - NobleProg _*(2019)*_
+- **Become a RESTful API Developer** - LinkedIn Learning _*(Mar 2019)*_
+- **Become an Angular 2+ Developer** - LinkedIn Learning _*(Mar 2019)*_
+- **Learning Git and GitHub** - LinkedIn Learning _*(Mar 2019)*_
+- **AWS Technical Essentials** - Amazon Web Services _*(Nov 2018)*_
+- **Profesional Scrum Master (PSM1) Training** - Scrum.org _*(Oct 2018)*_
+- **ITIL v3 (2011) Foundation Training** - APEX GLobal Learning _*(Feb 2016)*_
+- **Oracle Database 12c: Program with PL/SQL Ed 1 Training** - Oracle _*(Nov 2015)*_
+- **Course 6460A: Visual Studio 2008: Windows Presentation Foundation (WPF)** - Microsoft _*(Oct 2014)*_
+- **Introduction to PRISM (Microsoft Patterns & Practices)** Wizardsgroup _*(Oct 2014)*_
+- **Oracle Database 11g: Administration Workshop I Ed 2 Training** - Oracle _*(Dec 2013)*_
+- **The 7 Habits of Highly Effective People Signature Program** - Franklin Covey _*(May 2012)*_
+- **German Language (A1.1, Part 1 of Level A1)** - Goethe Institute _*(Apr 2012)*_
+- **Course: 10266A - Programming in C# with Microsoft Visual Studio 2010** - Microsoft _*(Feb 2012)*_
+- **Test Program Development** - LTX-Credence _*(Nov 2006)*_
