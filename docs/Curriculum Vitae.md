@@ -16,9 +16,9 @@
 
 ## **Career Summary**
 
-> - **[Kelvin Joson](https://www.linkedin.com/in/kelvinjoson/)** is a seasoned professional with over 19 years of expertise in **Manufacturing Execution Systems (MES)**, **Agile methodologies**, and **product ownership**. He has led global rollouts, developed innovative solutions, and driven process improvements in the semiconductor and automotive industries.  
-> - Proficient in tools and technologies like **Python**, **C#**, **Docker**, **Jenkins**, **Azure**, and **GitHub Actions**. Kelvin excels in bridging technical and business requirements to deliver impactful solutions.  
-> - Recognized for his leadership, Kelvin has mentored teams, contributed to Agile adoption, and holds certifications in **SAFe**, **Scrum**, and **Azure**. With a strong foundation in **electronics and communications engineering**, he combines technical expertise with strategic vision to succeed in dynamic environments.
+> - **[Kelvin Joson](https://www.linkedin.com/in/kelvinjoson/)** is a results-driven professional with over 19 years of expertise in **Manufacturing Execution Systems (MES)**, **Agile methodologies**, and **product ownership**. He has successfully led global rollouts, developed innovative solutions, and driven process improvements in the semiconductor and automotive industries.
+> - Proficient in tools and technologies like **Python**, **C#**, **Docker**, **Azure**, and **Jenkins**, Kelvin excels in bridging technical and business requirements to deliver impactful solutions.
+> - Recognized for his leadership, Kelvin has mentored teams, implemented automated testing frameworks, and contributed to Agile adoption. With certifications in **SAFe**, **Scrum**, and **Cybersecurity**, he combines technical expertise with strategic vision to thrive in dynamic environments.
 
 ---
 
