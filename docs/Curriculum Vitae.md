@@ -313,8 +313,8 @@
 
 ### **Leadership and Professional Development**
 
-- **Leadership Development Program 1** - Continental/Dale Carnegie Philippines _*(2023)*_
-- **Leading Self Program** - Continental/Dale Carnegie Philippines _*(2023)*_
+- **Leadership Development Program 1** - Continental/Dale Carnegie Philippines _*(Dec 2023)*_
+- **Leading Self Program** - Continental/Dale Carnegie Philippines _*(Jun 2023)*_
 - **The 7 Habits of Highly Effective People Signature Program** - Franklin Covey _*(May 2012)*_
 - **How to Manage a Remote Team** - GitLab _*(Mar 2022)*_
 - **Become a Successful Remote Worker** - LinkedIn Learning _*(Mar 2020)*_
