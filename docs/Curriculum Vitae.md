@@ -175,7 +175,7 @@ As Lead Developer, I drive the full software development lifecycle from design a
 
 #### **Test Product Engineer**
 
-> Onsite · Full-time · Feb 2005 – Apr 2010
+> Onsite · Full-time · Nov 2005 – Apr 2010
 
 As Test Product Engineer, I supported high‑volume semiconductor manufacturing by optimizing test processes, developing tools, and ensuring product reliability. I contributed to production ramp‑ups, training, and quality assurance while collaborating across teams to drive yield improvements and operational efficiency.
 
