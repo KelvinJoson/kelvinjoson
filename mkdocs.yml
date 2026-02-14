@@ -4,7 +4,7 @@ site_url: https://kelvinjoson.com
 #repo_name: KelvinJoson/kelvinjoson
 site_author: Kelvin Joson
 copyright: >
-  Copyright &copy; 2022-2025 Kelvin Joson
+  Copyright &copy; 2026 Kelvin Joson
   </br>
   <a href="#__consent">Change cookie settings</a>
 
@@ -77,7 +77,7 @@ extra:
   consent:
     title: Cookie consent
     description: >-
-      In order to monitor how well my home page is doing and whether visitors find what they are searching for, 
+      In order to monitor how well my home page is doing and whether visitors find what they are searching for,
       I use cookies to keep track of your preferences and repeat visits.
       With your consent, you are assisting in improving this website.
 markdown_extensions:
